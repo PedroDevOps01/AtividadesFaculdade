@@ -1,6 +1,6 @@
 # 📝 Atividades de Linguagem C - Faculdade
 
-Este repositório contém todas as atividades desenvolvidas durante as aulas de **Linguagem C** na faculdade. Cada exercício está organizado por níveis de dificuldade e apresenta comentários explicativos no código.
+Este repositório contém a atividade desenvolvida durante as aulas de **Linguagem C** da faculdade. O exercício está organizado através de comentários explicativos no código.
 
 ---
 
