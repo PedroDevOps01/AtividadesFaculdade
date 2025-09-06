@@ -13,7 +13,7 @@ Este repositório contém todas as atividades desenvolvidas durante as aulas de 
 
 ## 💡 Sobre as Atividades
 
-Cada arquivo `.c` contém:
+O arquivo `.c` contém:
 - Entrada de dados do usuário.
 - Cálculo de atributos ou lógica solicitada.
 - Impressão dos resultados no console.
