@@ -6,7 +6,7 @@ Este repositório contém todas as atividades desenvolvidas durante as aulas de 
 
 ## 📂 Estrutura do Repositório
 
-- `SuperTrunfo/` - Exercícios Final (Todos os níveis incluso)
+- `SuperTrunfo/` - Exercícios Final (Todos os níveis incluso em um arquivo .c)
 - `README.md` – Este arquivo com informações sobre o repositório.
 
 ---
